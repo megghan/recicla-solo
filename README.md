@@ -1,6 +1,8 @@
-#RECICLA-SOLO
-##O QUE É
-##FLUXO DE TRABALHO
-Milanote
-Figma
+# RECICLA-SOLO
+Projeto para a matéria de USINA DE PROJETOS EXPERIMENTAIS - FACENS
+
+## O QUE É
+
+## FLUXO DE TRABALHO
+
 
